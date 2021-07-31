@@ -99,7 +99,7 @@ return ` \`\`\`
 ➣「THANKS TO」
 ╔═════════════════❍
 ║${f}CLOUD BOT
-║${f}SETAN B0T
+║${f}LEON KUN
 ║${f}LOLHUMAN
 ║${f}ZEKSAPI
 ║${f}VIDEFIKI
